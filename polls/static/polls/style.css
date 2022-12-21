@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white
+    url("images/chevy.jpg") no-repeat;
+}
